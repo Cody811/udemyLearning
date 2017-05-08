@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="55021c33-1adf-4f3d-9b75-c991e5b98b7d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_helloWorld/Heaven.txt" afterPath="$PROJECT_DIR$/01_helloWorld/Heaven.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -230,7 +229,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494195589421</updated>
       <workItem from="1494195590740" duration="4238000" />
-      <workItem from="1494213295197" duration="540000" />
+      <workItem from="1494213295197" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="This is testing WebStorm git push">
       <created>1494213717436</created>
@@ -253,11 +252,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494213786645</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="This is testing WebStorm git push">
+      <created>1494213862506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494213862506</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4778000" />
+    <option name="totallyTimeSpent" value="4784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
