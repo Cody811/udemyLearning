@@ -220,7 +220,7 @@
       <updated>1494195589421</updated>
       <workItem from="1494195590740" duration="4238000" />
       <workItem from="1494213295197" duration="678000" />
-      <workItem from="1494214063680" duration="4000" />
+      <workItem from="1494214063680" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="This is testing WebStorm git push">
       <created>1494213717436</created>
@@ -264,11 +264,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494213977339</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="This is also testing WebStorm git push">
+      <created>1494214082465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1494214082465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4920000" />
+    <option name="totallyTimeSpent" value="4937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -302,7 +309,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="This is testing WebStorm git push" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is testing WebStorm git push" />
+    <MESSAGE value="This is also testing WebStorm git push" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is also testing WebStorm git push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
