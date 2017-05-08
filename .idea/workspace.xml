@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55021c33-1adf-4f3d-9b75-c991e5b98b7d" name="Default" comment="">
+    <list default="true" id="55021c33-1adf-4f3d-9b75-c991e5b98b7d" name="Default" comment="This is testing WebStorm git push">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_helloWorld/Heaven.txt" afterPath="$PROJECT_DIR$/01_helloWorld/Heaven.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,17 +34,7 @@
         <entry file="file://$PROJECT_DIR$/01_helloWorld/Heaven.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -52,8 +43,8 @@
       <file leaf-file-name="print.go" pinned="false" current-in-tab="false">
         <entry file="file://C:/Go/src/fmt/print.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4029">
-              <caret line="244" column="5" lean-forward="false" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+            <state relative-caret-position="102">
+              <caret line="249" column="14" lean-forward="true" selection-start-line="249" selection-start-column="14" selection-end-line="249" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -229,7 +220,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494195589421</updated>
       <workItem from="1494195590740" duration="4238000" />
-      <workItem from="1494213295197" duration="546000" />
+      <workItem from="1494213295197" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="This is testing WebStorm git push">
       <created>1494213717436</created>
@@ -259,11 +250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494213862506</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="This is testing WebStorm git push">
+      <created>1494213870271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494213870271</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4784000" />
+    <option name="totallyTimeSpent" value="4887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -330,14 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Go/src/fmt/print.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4029">
-          <caret line="244" column="5" lean-forward="false" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -356,10 +346,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="249" column="14" lean-forward="true" selection-start-line="249" selection-start-column="14" selection-end-line="249" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_helloWorld/Heaven.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding />
         </state>
       </provider>
